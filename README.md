@@ -1,2 +1,1 @@
-# CS247
-# CS247
+# CS247 Advanced Data Mining Project 
